@@ -1,4 +1,4 @@
-package com.bots.bots;
+package com.triad.bots;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.bots.bots;
+package com.triad.bots;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
